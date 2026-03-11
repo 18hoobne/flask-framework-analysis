@@ -1,0 +1,8 @@
+# Flask Framework Analysis Report
+
+Repository: pallets/flask
+Current Stars: 71404
+Stars Per Day: 12.86
+Analysis Date: June 12, 2025
+
+This repository was analyzed as part of a software engineering comparative study.
